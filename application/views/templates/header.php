@@ -36,7 +36,7 @@
                 <ul class="navbar-nav">
                   <?php if(isset($username)) {?>
 
-                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url(); ?>dashboard">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url(); ?>dashboard">Dashboard Staging</a></li>
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url(); ?>order">Order Form</a></li>
                   
                   <?php } ?>
