@@ -3,3 +3,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/jw26z6zz53ru/public_html/staging-order.premiumnut.com/
     - /bin/cp -R * $DEPLOYPATH
+    - cd $DEPLOYPATH
+    - git add .
+    - git commit -m "Auto-commit from cPanel deployment"
+    - git push
