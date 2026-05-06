@@ -4,6 +4,8 @@ deployment:
     - export DEPLOYPATH=/home/jw26z6zz53ru/public_html/staging-order.premiumnut.com/
     - /bin/cp -R * $DEPLOYPATH
     - cd $DEPLOYPATH
+    - git config user.name "maverik90"
+    - git config user.email "maverik_90@hotmail.com"
     - git add .
-    - git commit -m "Auto-commit from cPanel deployment"
-    - git push
+    - git commit -m "Auto-commit from cPanel deployment $(date)"
+    - git push origin staging
