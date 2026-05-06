@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jw26z6zz53ru/public_html/order.premiumnut.com/
+    - export DEPLOYPATH=/home/jw26z6zz53ru/public_html/staging-order.premiumnut.com/
     - /bin/cp -R application $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
