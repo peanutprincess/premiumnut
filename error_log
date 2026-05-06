@@ -1,0 +1,22 @@
+[25-Feb-2021 17:55:57 UTC] PHP Fatal error:  Cannot redeclare Pages::products_list() in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 58
+[25-Feb-2021 17:56:34 UTC] PHP Fatal error:  Cannot redeclare Pages::products_list() in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 58
+[25-Feb-2021 17:56:41 UTC] PHP Fatal error:  Cannot redeclare Pages::products_list() in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 58
+[26-Feb-2021 17:49:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 47
+[28-Feb-2021 13:24:19 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 20
+[28-Feb-2021 13:25:38 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 20
+[28-Feb-2021 13:26:16 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/jw26z6zz53ru/public_html/order.premiumnut.com/devapp/application/controllers/Pages.php on line 20
+[25-May-2021 19:25:10 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/controllers/Pages.php on line 452
+[08-Nov-2021 20:30:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/controllers/Pages.php on line 237
+[08-Nov-2021 20:30:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/controllers/Pages.php on line 237
+[14-Nov-2021 13:32:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'oleread.inc' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/libraries/Excel_reader/Excel_reader.php on line 23
+[14-Nov-2021 13:35:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'oleread.inc' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/libraries/Excel_reader/Excel_reader.php on line 23
+[14-Nov-2021 14:10:53 UTC] PHP Fatal error:  require(): Failed opening required 'application/libraries/xlsx_reader_master/Reader1.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/controllers/Pages.php on line 298
+[14-Nov-2021 14:11:21 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/libraries/xlsx_reader_master/Reader.php on line 3
+[14-Nov-2021 14:54:01 UTC] PHP Notice:  Undefined index: log_path in /home/jw26z6zz53ru/public_html/order.premiumnut.com/system/core/Log.php on line 127
+[14-Nov-2021 14:54:01 UTC] PHP Notice:  Undefined index: log_path in /home/jw26z6zz53ru/public_html/order.premiumnut.com/system/core/Log.php on line 127
+[14-Nov-2021 14:54:01 UTC] PHP Warning:  mkdir(): Invalid path in /home/jw26z6zz53ru/public_html/order.premiumnut.com/system/core/Log.php on line 131
+[14-Nov-2021 14:54:01 UTC] PHP Notice:  Undefined index: log_threshold in /home/jw26z6zz53ru/public_html/order.premiumnut.com/system/core/Log.php on line 138
+[14-Nov-2021 14:54:01 UTC] PHP Notice:  Undefined index: log_threshold in /home/jw26z6zz53ru/public_html/order.premiumnut.com/system/core/Log.php on line 142
+[14-Nov-2021 15:35:19 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/controllers/Pages.php on line 349
+[14-Nov-2021 15:36:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/jw26z6zz53ru/public_html/order.premiumnut.com/application/controllers/Pages.php on line 349
+[25-Jan-2022 16:15:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 148660113 bytes) in /home/jw26z6zz53ru/public_html/order.premiumnut.com/src/PhpSpreadsheet/Reader/Xlsx.php on line 379
